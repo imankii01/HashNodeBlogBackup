@@ -1,6 +1,7 @@
 ---
 title: "🌐 Day 2: Setting Up Your AWS Account & Exploring the Free Tier 🚀"
-seoTitle: "Aws Singup"
+seoTitle: "How to Set Up Your AWS Account & Explore the Free Tier: A Step-by-Step"
+seoDescription: "How to Set Up Your AWS Account & Explore the Free Tier: A Step-by-Step Guide"
 datePublished: Mon Dec 02 2024 17:55:58 GMT+0000 (Coordinated Universal Time)
 cuid: cm47c001l001a09mgb3nibdjr
 slug: day-2-setting-up-your-aws-account-exploring-the-free-tier
