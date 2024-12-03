@@ -1,6 +1,6 @@
 ---
 title: "🌟 Day 3: Understanding Core AWS Services & AWS Management Console 🌐"
-seoTitle: "Understanding Core AWS Services: EC2, S3, IAM & RDS Explained | Day 3 "
+seoTitle: "Understanding Core AWS Services: EC2, S3, IAM & RDS Explained | Day 3"
 seoDescription: "Explore the essential AWS services including EC2, S3, IAM, and RDS. Learn how these core AWS services work, their use cases, and how to use them effectively"
 datePublished: Tue Dec 03 2024 10:06:04 GMT+0000 (Coordinated Universal Time)
 cuid: cm48ank4f000709la97ksdqhj
@@ -10,12 +10,6 @@ ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1733220302978/97d9c
 tags: aws, aws-services, top-aws-services-for-devops-engineers
 
 ---
-
-Absolutely! Let's make it even more comprehensive by expanding each section further, including more details, practical tips, and explanations of the services, how to use them, and additional examples.
-
----
-
-# 🌟 **Day 3: Understanding Core AWS Services & AWS Management Console** 🌐
 
 Welcome to **Day 3** of your AWS learning journey! 🚀 Today, we are going to cover some of the most **essential AWS services** that are foundational for building applications in the cloud. These services are the backbone of most cloud architectures and will be critical as you start deploying real-world applications. You’ll also get hands-on with the **AWS Management Console**, your central hub for interacting with AWS services.
 
