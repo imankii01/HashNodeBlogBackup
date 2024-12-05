@@ -1,11 +1,3 @@
-
-### Repository Description
-> **HashNode Blog Backup**: A repository to maintain backups of all blogs from [imankit.hashnode.dev](https://imankit.hashnode.dev/?source=top_nav_blog_home). This ensures that all content is securely stored and easily accessible for future use or migration.
-
----
-
-## README.md
-
 ```markdown
 # HashNode Blog Backup
 
