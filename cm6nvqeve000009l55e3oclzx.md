@@ -1,10 +1,10 @@
 ---
-title: "How to Host a Website Using AWS Route 53 and S3 with a GoDaddy Domain – A Beginner-Friendly Guide"
+title: "Day-10:How to Host a Website Using AWS Route 53 and S3 with a GoDaddy Domain – A Beginner-Friendly Guide"
 seoTitle: "How to Connect a GoDaddy Domain to AWS Route 53 and Host a Static Webs"
 seoDescription: "Learn how to connect your GoDaddy domain to AWS Route 53 and host a static website on Amazon S3. This step-by-step beginner-friendly guide covers domain set"
 datePublished: Sun Feb 02 2025 17:12:06 GMT+0000 (Coordinated Universal Time)
 cuid: cm6nvqeve000009l55e3oclzx
-slug: how-to-host-a-website-using-aws-route-53-and-s3-with-a-godaddy-domain-a-beginner-friendly-guide
+slug: day-10how-to-host-a-website-using-aws-route-53-and-s3-with-a-godaddy-domain-a-beginner-friendly-guide
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1738516187681/76e405e5-8c71-48b7-a0c6-7743ac527689.webp
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1738516283764/de67ef0b-41c8-4bb0-8c33-a8eb3c69351c.webp
 tags: godaddy, aws, deployment, devops, s3, route53
